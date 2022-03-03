@@ -8,7 +8,7 @@ Clone da Home do Spotify, feito em curso, acompanhando a aula ministrada pelo pr
 🔹 CSS</br>
 🔹 BOOTSTRAP</br>
 🔹 MEDIA QUERIES</br>
-🔹 GRID SYSTEM
+
 
 #### Artifícios da página:
 
@@ -17,6 +17,7 @@ Clone da Home do Spotify, feito em curso, acompanhando a aula ministrada pelo pr
 🔸 CAROUSEL</br>
 🔸 FONT AWESOME</br>
 🔸 DESIGN PARALAX</br>
+🔸 GRID SYSTEM</br>
 🔸 FLEXBOX
 
 ####  Objetivo:
